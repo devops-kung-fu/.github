@@ -1,7 +1,7 @@
 # DevOps Kung Fu Mafia
 
 ## Who are we?
-We are an open source community that is passionate about creating tools and utilities when there are none available,  we have a cool automation idea, or we just get pissed off that the tools we find only work on one platform or are written in a stupid programing language. You'll notice that we program mainly in Go. That takes care of that platform problem.
+We are an open source community that is passionate about creating tools and utilities when there are none available,  we have a cool automation idea, or we just get pissed off that the tools we find only work on one platform or are written in a stupid programing language. You'll notice that we program mainly in Go and Rust. That takes care of that platform problem.
 
 ## Our beliefs
 One of our core beliefs is that ***Security*** is simply an attribute of quality. We could've named ourselves the DevSecOps Kung Fu Mafia, or even the Rainbow Monkey Unicorn Pony Mafia, but the bottom line is Security is part of everything we do. 
